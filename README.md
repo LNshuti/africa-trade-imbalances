@@ -21,3 +21,13 @@ Use 2021 trade data to identify the largest sectors where African countries, on 
 ![Screenshot 2023-08-14 at 5 53 43 AM](https://github.com/LNshuti/africa-trade-imbalances/assets/13305262/f0649095-f4a1-4431-bc7a-ee7f4e3c3244)
 
 
+# Contributing 
+
+In terminal, run the following commands to download the repo and install required libraries: 
+
+$ git clone https://github.com/LNshuti/africa-trade-imbalances.git
+$ cd africa-trade-imbalances 
+
+Set up python environment
+$ conda env create --file=environment.yaml
+$ pip install -r requirements.txt
