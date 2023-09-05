@@ -30,6 +30,7 @@ $ git clone https://github.com/LNshuti/africa-trade-imbalances.git
 $ cd africa-trade-imbalances 
 
 Set up python environment
+
 $ conda env create --file=environment.yaml
 
 $ pip install -r requirements.txt
