@@ -34,3 +34,6 @@ Set up Python environment
 $ conda env create --file=environment.yaml
 
 $ pip install -r requirements.txt
+
+# References
+Special thanks to developers of the social data streamlit app: https://github.com/arup-group/social-data
