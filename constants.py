@@ -8,7 +8,7 @@ AFRICAN_COUNTRIES = [
     'Burkina Faso',
     'Burundi',
     'Cameroon',
-    'Cape Verde',
+    'Cabo Verde',
     'Central African Republic',
     'Chad',
     'Comoros',
