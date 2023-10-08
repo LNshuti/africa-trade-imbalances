@@ -56,3 +56,5 @@ AFRICAN_COUNTRIES = [
     'Zambia',
     'Zimbabwe'
 ]
+
+REGIONS = ["Northern Africa", "Western Africa", "Middle Africa", "Eastern Africa", "Southern Africa"]
