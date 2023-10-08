@@ -51,8 +51,8 @@ def country_data_explorer():
         if region_name:
             # Load the data for the selected region (You need to implement this part)
             region_data = load_region_data(region_name)
-            st.write(f"Selected Region: {region_name}")
-            st.write(region_data)  # Display the dataframe for the selected region
+           # st.write(f"Selected Region: {region_name}")
+            #st.write(region_data)  # Display the dataframe for the selected region
 
             # Create a sum of Gross import by Sector for the selected region
             grouped_data = region_data.groupby('Sector')['Gross Import'].sum()
